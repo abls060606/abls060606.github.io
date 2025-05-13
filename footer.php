@@ -9,7 +9,7 @@
                 <div class="col-lg-2 col-md-6 mb-4 mb-md-0">
                     <h5 class="text-uppercase text-ladrillo mb-4">Enlaces</h5>
                     <ul class="list-unstyled">
-                        <li class="mb-2"><a href="index.php" class="text-white text-decoration-none">Inicio</a></li>
+                        <li class="mb-2"><a href="principal.php" class="text-white text-decoration-none">Inicio</a></li>
                         <li class="mb-2"><a href="nosotros.php" class="text-white text-decoration-none">Nosotros</a></li>
                         <li class="mb-2"><a href="empresas.php" class="text-white text-decoration-none">Empresas</a></li>
                         <li class="mb-2"><a href="unirse.php" class="text-white text-decoration-none">Únase a Nosotros</a></li>

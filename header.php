@@ -7,7 +7,7 @@ if(!isset($current_page)) {
     <!-- Navbar -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-ladrillo py-3 sticky-top">
         <div class="container">
-            <a class="navbar-brand" href="index.php">
+            <a class="navbar-brand" href="principal.php">
                 <img src="assets/img/logo.png" alt="Cámara PYME" height="50">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
@@ -16,7 +16,7 @@ if(!isset($current_page)) {
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
-                        <a class="nav-link <?php echo $current_page == 'inicio' ? 'active' : ''; ?>" href="index.php">Inicio</a>
+                        <a class="nav-link <?php echo $current_page == 'inicio' ? 'active' : ''; ?>" href="principal.php">Inicio</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link <?php echo $current_page == 'nosotros' ? 'active' : ''; ?>" href="nosotros.php">Nosotros</a>
